@@ -1,0 +1,9 @@
+C:\Users\LeDung\source\repos\ServiceBai2\ServiceBai2\bin\Debug\ServiceBai2.exe.config
+C:\Users\LeDung\source\repos\ServiceBai2\ServiceBai2\bin\Debug\ServiceBai2.exe
+C:\Users\LeDung\source\repos\ServiceBai2\ServiceBai2\bin\Debug\ServiceBai2.pdb
+C:\Users\LeDung\source\repos\ServiceBai2\ServiceBai2\obj\Debug\ServiceBai2.ProjectInstaller.resources
+C:\Users\LeDung\source\repos\ServiceBai2\ServiceBai2\obj\Debug\ServiceBai2.ServiceBai2.resources
+C:\Users\LeDung\source\repos\ServiceBai2\ServiceBai2\obj\Debug\ServiceBai2.csproj.GenerateResource.cache
+C:\Users\LeDung\source\repos\ServiceBai2\ServiceBai2\obj\Debug\ServiceBai2.csproj.CoreCompileInputs.cache
+C:\Users\LeDung\source\repos\ServiceBai2\ServiceBai2\obj\Debug\ServiceBai2.exe
+C:\Users\LeDung\source\repos\ServiceBai2\ServiceBai2\obj\Debug\ServiceBai2.pdb
